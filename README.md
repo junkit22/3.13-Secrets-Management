@@ -1,8 +1,10 @@
 # 3.13-Secrets-Management
 
+## Objective:
+
 The objective of this assignment is to set up a continuous integration and continuous deployment (CI/CD) pipeline for a Node.js application that is deployed on a serverless platform with Secret Management in placed!.
 
-# Instructions:
+## Instructions:
 
 1. Create a new Node.js application using the Express framework.
 2. Set up automatic testing for the application using a testing framework such as Jest or Mocha.
@@ -14,7 +16,7 @@ The objective of this assignment is to set up a continuous integration and conti
 8. Configure the pipeline to automatically deploy the code to the serverless platform whenever changes are pushed to the code repository and all tests pass.
 9. Write a documentation explaining the steps you have done, including the tools and services used.
 
-# Deliverables:
+## Deliverables:
 
 - The Node.js application with automatic testing set up
 - Code repository with the CI/CD pipeline configured
