@@ -14,7 +14,7 @@ The objective of this assignment is to set up a continuous integration and conti
 8. Configure the pipeline to automatically deploy the code to the serverless platform whenever changes are pushed to the code repository and all tests pass.
 9. Write a documentation explaining the steps you have done, including the tools and services used.
 
-#Deliverables:
+# Deliverables:
 
 - The Node.js application with automatic testing set up
 - Code repository with the CI/CD pipeline configured
