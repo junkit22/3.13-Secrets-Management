@@ -10,3 +10,17 @@ variable "lambda_file_name" {
   type        = string
   default     = "junjie-lambda-tf"
 }
+
+# IAM lambda role
+variable "iam_lambda_role" {
+  description = "IAM role Name for lambda"
+  type        = string
+  default     = "ce7-junjie-iam-lambda-role"
+}
+
+# IAM cloudwatch policy name
+variable "iam_cloudwatch_policy" {
+  description = "IAM cloudwatch policy name for lambda"
+  type        = string
+  default     = "ce7-junjie-iam-cloudwatch-policy"
+}
